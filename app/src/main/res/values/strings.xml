@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Scientific Calculator</string>
+    <!-- Numbers-->
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+
+    <!-- Basic op-->
+    <string name="all_clear">AC</string>
+    <string name="backspace">⌫</string>
+    <string name="plus">+</string>
+    <string name="divide">÷</string>
+    <string name="multiply">×</string>
+    <string name="minus">-</string>
+    <string name="point">.</string>
+    <string name="equals">=</string>
+    
+    <!--Advanced Op-->
+    <string name="exponent">^</string>
+    <string name="parenthesis">( )</string>
+    <string name="factorial">x!</string>
+    <string name="modulo">%</string>
+    <string name="cube_root">∛</string>
+    <string name="square_root">√</string>
+    <string name="logarithm_base2">log₂x</string>
+    <string name="logarithm">log</string>
+    <string name="permutation">nPr</string>
+    <string name="combination">nCr</string>
+    <string name="abstract.">Abs</string>
+    <string name="round">Rnd</string>
+    <string name="ceiling">Ceil</string>
+    <string name="floor">Flr</string>
+    <string name="max">Max</string>
+    <string name="min">Min</string>
+    <string name="x">x</string>
+    <string name="y">y</string>
+
+    <!--Double's-->
+    <string name="SummationNotation">Σ</string>
+    <string name="DoubleSummation">ΣΣ</string>
+    <string name="ProductNotation">π</string>
+    <string name="DoubleProduct">ππ</string>
+
+    <!--Text view-->
+    <string name="display">0</string>
+</resources>

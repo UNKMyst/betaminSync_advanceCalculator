@@ -1,0 +1,15 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.ScientificCalculator" parent="Theme.AppCompat">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/darkest_green</item>
+        <item name="colorPrimaryVariant">@color/dark_green</item>
+        <item name="colorOnPrimary">@color/darker_green</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/orange</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
